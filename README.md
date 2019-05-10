@@ -1,4 +1,4 @@
-# instagram-engagement-bot :+1:
+# instagram-engagement-bot (LIKE ROUNDS BOT) :+1:
 
 This bot should work in group chats.
 The main functionality is mutual likes.
